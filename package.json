@@ -1,0 +1,29 @@
+{
+	"name": "string-errors",
+	"version": "0.0.0",
+	"description": "Validate string and get error message",
+	"license": "MIT",
+	"repository": "Hoishin/string-errors",
+	"author": {
+		"name": "Hoishin",
+		"email": "hoishinxii@gmail.com",
+		"url": "github.com/Hoishin"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"xo": "^0.18.2"
+	}
+}
